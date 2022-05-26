@@ -1,0 +1,11 @@
+/Users/assaf/Projects/BowlingScoring/BowlingScoring/bin/Debug/netcoreapp3.0/BowlingScoring
+/Users/assaf/Projects/BowlingScoring/BowlingScoring/bin/Debug/netcoreapp3.0/BowlingScoring.deps.json
+/Users/assaf/Projects/BowlingScoring/BowlingScoring/bin/Debug/netcoreapp3.0/BowlingScoring.runtimeconfig.json
+/Users/assaf/Projects/BowlingScoring/BowlingScoring/bin/Debug/netcoreapp3.0/BowlingScoring.runtimeconfig.dev.json
+/Users/assaf/Projects/BowlingScoring/BowlingScoring/bin/Debug/netcoreapp3.0/BowlingScoring.dll
+/Users/assaf/Projects/BowlingScoring/BowlingScoring/bin/Debug/netcoreapp3.0/BowlingScoring.pdb
+/Users/assaf/Projects/BowlingScoring/BowlingScoring/obj/Debug/netcoreapp3.0/BowlingScoring.AssemblyInfoInputs.cache
+/Users/assaf/Projects/BowlingScoring/BowlingScoring/obj/Debug/netcoreapp3.0/BowlingScoring.AssemblyInfo.cs
+/Users/assaf/Projects/BowlingScoring/BowlingScoring/obj/Debug/netcoreapp3.0/BowlingScoring.dll
+/Users/assaf/Projects/BowlingScoring/BowlingScoring/obj/Debug/netcoreapp3.0/BowlingScoring.pdb
+/Users/assaf/Projects/BowlingScoring/BowlingScoring/obj/Debug/netcoreapp3.0/BowlingScoring.csprojAssemblyReference.cache
